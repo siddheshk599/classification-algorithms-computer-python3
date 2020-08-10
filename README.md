@@ -6,7 +6,7 @@ Classification Algorithms Computer.
 
 Setting up and installing this software is ease by just installing Python3, Python3's Tkinter GUI library, Python's MySQL library and other libraries too.
 
-**Prerequisites:**
+# Prerequisites:
 
 **Softwares needed:**
 1.	Python3.
@@ -18,7 +18,7 @@ Setting up and installing this software is ease by just installing Python3, Pyth
 1.	Python3: <https://www.python.org/downloads/>
 2.	MySQL: <https://dev.mysql.com/downloads/>
 
-**Installing required softwares:**
+# Installing required softwares:
 
 **For Windows users:**
 1.	Download Python3 from the above given link and install it. When installing Python3, make sure that the option 'Tcl/Tk' must be checked to allow Python installer to install Python's Tkinter GUI library.
@@ -44,7 +44,7 @@ Setting up and installing this software is ease by just installing Python3, Pyth
 
 **Following the above installation steps for required softwares will set up an environment to run the Library Management System without any hassles.**
 
-**Running the software:**
+# Running the software:
 **For Windows users:**
 1.  First import the 'database.sql' file into your MySQL database.
 2.  Open your command prompt and navigate to the project's directory and run the following command:
@@ -65,10 +65,10 @@ Setting up and installing this software is ease by just installing Python3, Pyth
 3.  Configure the database credentials first by entering your database username and password, database name (dataMining) and table name (naiveBayesData / id3Data).
 4.  Then you may proceed to run the application normally.
 
-**Built with:**
+# Built with:
 1.    Python3 (Tkinter) - GUI for the software.
 2.    MySQL - Database Management System.
 
-**Author:**
+# Author:
           Siddhesh Kudtarkar
 
